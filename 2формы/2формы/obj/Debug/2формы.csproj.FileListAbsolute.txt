@@ -1,0 +1,11 @@
+D:\ОАИП\2формы\2формы\bin\Debug\2формы.exe.config
+D:\ОАИП\2формы\2формы\bin\Debug\2формы.exe
+D:\ОАИП\2формы\2формы\bin\Debug\2формы.pdb
+D:\ОАИП\2формы\2формы\obj\Debug\2формы.csproj.AssemblyReference.cache
+D:\ОАИП\2формы\2формы\obj\Debug\_2формы.Form1.resources
+D:\ОАИП\2формы\2формы\obj\Debug\_2формы.Form2.resources
+D:\ОАИП\2формы\2формы\obj\Debug\_2формы.Properties.Resources.resources
+D:\ОАИП\2формы\2формы\obj\Debug\2формы.csproj.GenerateResource.cache
+D:\ОАИП\2формы\2формы\obj\Debug\2формы.csproj.CoreCompileInputs.cache
+D:\ОАИП\2формы\2формы\obj\Debug\2формы.exe
+D:\ОАИП\2формы\2формы\obj\Debug\2формы.pdb
